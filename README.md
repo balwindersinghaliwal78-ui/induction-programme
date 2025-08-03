@@ -63,6 +63,35 @@ The first day of the induction programme was well structured and welcoming.It in
    ---
    🎡 **Day 2 offered a perfect mix of learnig,health awarenesess, and student engangement!**
    
+   ## 📅 Day 3 - Induction programme Report (3 August 2025)
+   
+   ### ⏰ 09:00 am - 11:00 am
+   
+ **Speaker:** Dr.Jaswinder Singh
+ 
+ 🔹 Lecturer in Physics
+ 
+ 🔹 Ex-Incharge,Circle Inspection Team,Punjab
+ 
+ 🔹 Former Assistant State Project Director (Science),Punjab
+ 
+ 📝 **Session Summary:**
+ 
+ Dr.Jaswinder Singh delivered an informative lecture on the practical applications of science and the importance of disciplane and inspection system in education.He shared his real life experincesfrom thr field and highlighted how scientific thinking and responsible execution can enhance the quality of education.
+
+### ⏰ 11:00 am - 01:00 pm
+
+👩‍🏫 **Speaker:** Ms.Priya Darshini
+
+🌍 **Topic:** Universal Human Values
+
+📝 **Session Summary:**
+
+This session focused on core human values such as empathy,trust,respect,right understanding, and responsibility.Ms.Priya Darshini explained the importance of value-based education and how it shapes our personal and professional lives.The session was interctive,engaging,and thought-provoking.
+ 
+ 
+   
+   
   
    
  - 
