@@ -29,9 +29,43 @@ The faculty gave a guided tour and briefed student on the infrastructure,technic
 The first day of the induction programme was well structured and welcoming.It included a perfect mix of spirituality,motivation,and academic introduction.This helped students feel comfortable and excited to begin their journey at GNDEC.
 
  ✍ **prepared by:**Harmanpreet kaur
- 
+ -
  🎓 B.tech CSE - 1st Semester
+
+ # ✨ Induction programme - Day 2 Report
+ 📅 ** Date:** 01 August 2025
  
+ 🏫 ** Venue:** GNDEC,Ludhiana
+ 
+ ---
+ ## 📌 Schedule Overview 
+ 
+ - ⏰  **09:30 am - 10:30 am:** *English Proficiency Test*
+  Assessed grammer and communication skills.
+ - ⏰ **10:30 am 11:30 am:** *Mathematics Proficiency Test*
+   Tested basic math concepts and logical reasoning.
+ - ⏰ **11:30 am - 01:00 pm:** *Expert Lecture by Dr.Arshdeep Singh*
+   Topic: "Food Pyramid & Student Wellness"
+   Focus on balanced diet,energy & mentel well-being.
+ - ⏰ **02:00 pm - 04:00 pm:** *Session by cosmic clud + Induction Activities Launch *
+ - 
+   Introduction to college clubs and co-curricular opportunities.
+   
+   ---
+   ## 🌟 Key Highlights
+   
+   ✔ Acadmic readiness through tests
+   
+   ✔ Awareness on nutrition and wellness
+   
+   ✔ Encouragement for active participation in clubs
+   
+   ---
+   🎡 **Day 2 offered a perfect mix of learnig,health awarenesess, and student engangement!**
+   
+  
+   
+ - 
 
 
 - 
