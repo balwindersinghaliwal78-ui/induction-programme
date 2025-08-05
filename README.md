@@ -86,17 +86,31 @@ This session focused on core human values such as empathy,trust,respect,right un
 ## ✨ Inductin programme - Day 4 Report ( 4 August 2025 )
 ### 💻 09:30 AM - 10:30 AM | Introduction to C++
 Our senior conducted the first session where we were introduced to the **basic of C++ programming**.They explained fundamental concepts and demonstarted a few simple program.It was a great star for those new to programming..
-### ⚡ 10:30 AM - 11:30 AM | BEEE by prof.Balwinder Singh
+### ⚡ 10:30 AM - 11:30 AM | BEEE by prof.Balwinder Singh-.
 The next session was taken by **Pro.Balwinder Singh** who teaches **Basic Electrical and Electronics Engineering (BEEE)**.He gave a brief introduction about himself,discussed the subject overview,and explained the semester syllabus.
-### ☕ 11:30 AM - 12:30 PM |Break Time
+### ☕ 11:30 AM - 12:30 PM |Break Time-
 We had a one-hour are break to relax and refresh ourselves.
 ### 🧠 12:30 PM - 2:30 PM | UHV by Dr.Priya Darshini
 **Dr.Priya Darshini Madam** delivered an inspiring lecture on **UHV (Universal Human Values) in the auditorium. She talked about how values and ethics are essential in student life and personal growth.
 ### 🌇 Post-Lunch | Cosmic Club Introduction 
-After the lecture, our **seniors introduced us to Cosmic Club**. They explained the club's purpose, its activities, and how we can join and contribute.
+After the lecture, our **seniors introduced us to Cosmic Club**. They explained the club's purpose, its activities, and how we can join and contribute.  
 
+# ✨ Induction programme Report - Day 5( 5 August 2025 )
+
+## 📘 09:30 Am - 10:30 AM | Chemistry Lecture  by Prof.Mandeep Kaur
+🧪 Prof.Mandeep Kaur introduced us to **basic concepts of Chemistry** and shared the **syllabus outline**.She explained how Chemistry is inportent in the field of Engineering and discussed key topics we will be studying this semester.
+
+## 📗 10:30 Am - 11:30 Pm | English lecture by Prof.Nisha 
+🔊 The session began with an **introduction by Prof.Nisha**, followed by student introductions.The class was intractive,helping us build confidence and improve our communication skills.
+
+## 📙 11:30 Am - 12:30 Pm | Mathematics lecture by Dr.Gagandeep kaur
+📐 In this Mathematics session, we were given an overview of the subject and its importance in engineering. 
+
+📑 Along with this,we were also introduced to **college rulEs and classroom behaviour**.We were guided on how to sit properly in class,maintain discipline,and follow instructions.These small things are essenial for maintaining a good acadmic enviroment.
+
+  ## ✔ **Conclusion**
  
- 
+ Day 5 was very informative and college etiquette.All three session helped us prepare better for the upcoming semester.
    
    
   
