@@ -1,4 +1,4 @@
-# ✨ induction programme - Day 1 Report   (31 july 2025) 
+# ✨ Induction Programme Report  - Day 1  (31 july 2025) 
 
 **Course:** B.Tech Computer Science and Enginnering
 
@@ -33,14 +33,14 @@ The first day of the induction programme was well structured and welcoming.It in
  
  ## 📌 Schedule Overview 
  
- - ⏰  **09:30 AM - 10:30 AM** *English Proficiency Test*
+ - ⏲ **09:30 AM - 10:30 AM** *English Proficiency Test*
   Assessed grammer and communication skills.
- - ⏰ **10:30 AM 11:30 AM** *Mathematics Proficiency Test*
+ - ⏲ **10:30 AM 11:30 AM** *Mathematics Proficiency Test*
    Tested basic math concepts and logical reasoning.
- - ⏰ **11:30 Am - 01:00 PM** *Expert Lecture by Dr.Arshdeep Singh*
+ - ⏲ **11:30 Am - 01:00 PM** *Expert Lecture by Dr.Arshdeep Singh*
    Topic: "Food Pyramid & Student Wellness"
    Focus on balanced diet,energy & mentel well-being.
- - ⏰ **02:00 PM - 04:00 PM** *Session by cosmic clud + Induction Activities Launch *
+ - ⏲ **02:00 PM - 04:00 PM** *Session by cosmic clud + Induction Activities Launch *
  - 
    Introduction to college clubs and co-curricular opportunities.
    
@@ -57,9 +57,9 @@ The first day of the induction programme was well structured and welcoming.It in
    🎡 **Day 2 offered a perfect mix of learnig,health awarenesess, and student engangement!**
    
    
-   ## ✨ Induction programme - Day 3 Report (2 August 2025)
+   ## ✨ Induction Programme Report  - Day 3  (2 August 2025)
    
-   ### ⏰ 09:00 AM - 11:00 AM
+   ### ⏲ 09:00 AM - 11:00 AM
    
  **Speaker:** Dr.Jaswinder Singh
  
@@ -73,7 +73,7 @@ The first day of the induction programme was well structured and welcoming.It in
  
  Dr.Jaswinder Singh delivered an informative lecture on the practical applications of science and the importance of disciplane and inspection system in education.He shared his real life experincesfrom thr field and highlighted how scientific thinking and responsible execution can enhance the quality of education
 
-### ⏰ 11:00 AM - 01:00 PM
+### ⏲ 11:00 AM - 01:00 PM
 
 👩‍🏫 **Speaker:** Dr.Priya Darshini
 
@@ -83,7 +83,7 @@ The first day of the induction programme was well structured and welcoming.It in
 
 This session focused on core human values such as empathy,trust,respect,right understanding, and responsibility.Ms.Priya Darshini explained the importance of value-based education and how it shapes our personal and professional lives.The session was interctive,engaging,and thought-provoking.
 
-## ✨ Inductin programme - Day 4 Report ( 4 August 2025 )
+## ✨ Inductin Programme - Day 4 Report ( 4 August 2025 )
 ### 💻 09:30 AM - 10:30 AM | Introduction to C++
 Our senior conducted the first session where we were introduced to the **basic of C++ programming**.They explained fundamental concepts and demonstarted a few simple program.It was a great star for those new to programming..
 ### ⚡ 10:30 AM - 11:30 AM | BEEE by prof.Balwinder Singh-.
@@ -95,7 +95,7 @@ We had a one-hour are break to relax and refresh ourselves.
 ### 🌇 Post-Lunch | Cosmic Club Introduction 
 After the lecture, our **seniors introduced us to Cosmic Club**. They explained the club's purpose, its activities, and how we can join and contribute.  
 
-# ✨ Induction programme Report - Day 5( 5 August 2025 )
+# ✨ Induction Programme Report - Day 5( 5 August 2025 )
 
 ## 📘 09:30 Am - 10:30 AM | Chemistry Lecture  by Prof.Mandeep Kaur
 🧪 Prof.Mandeep Kaur introduced us to **basic concepts of Chemistry** and shared the **syllabus outline**.She explained how Chemistry is inportent in the field of Engineering and discussed key topics we will be studying this semester.
@@ -111,6 +111,49 @@ After the lecture, our **seniors introduced us to Cosmic Club**. They explained 
   ## ✔ **Conclusion**
  
  Day 5 was very informative and college etiquette.All three session helped us prepare better for the upcoming semester.
+
+ # ✨ Induction Programme Report - Day 6 ( 6 August 2025 )
+## ⏲ 09:30 Am - 11:30 Am | ID Card Creation 
+The day started with the **ID Card Creation** for students,managed smoothly by the college team.
+
+## ⏲ 11:30 Am - 12:30 PM | ☕ Refreshment Break
+Student were given a one-hours break after the ID process.
+
+## ⏲ 12:30 Pm - 02:00 Pm | 🎙 Motivational session by Sardar Gurcharan Singh
+**Sardar Gurcharan Singh**,GNDEC alumnus and **trustee member of the Nankana Sahib commitee** ,shared his inspiring life journey and motivated students with his valuable experiences.
+
+## ⏲ 02:00 Pm - 03:30 Pm | Lecture by Dr.Lakhvir Singh khanna
+**Dr. Lakhvir Singh Khanna**,a respected member of the **Center for Multi-Faceted Learning (CML)**,delivered an insightful lecture on the importance of **discipline**, **self-growth**,and **leadership** in student life.
+
+## ✔ Conclusion
+Day 6 of the induction programme offered a thoughtful blend of **administrative setup** and **motivational insight**,helping student feel inspired and well-oriented within the GNDEC eniviorment.
+
+# Induction Programme Report - Day 7 ( 7 August 2025 )
+
+## ⏲ 09:30 Am - 10:30 Am | 👨‍⚕️ Lecture by Dr.Amit Kamra ( Incharge-DMC)
+Dr.Amit Kamra introduced the (DMC) ,which manages the college's social media presence,YouTube channel,and official event video editing.Student were encouraged to participate and showcase their creative skills through this platform.
+
+## ⏲ 10:30 Am - 11:30 Am | 👨‍⚕️ Lecture by Dr.Parminder Singh ( Dean.Student Welfare )
+Dr. Parminder Singh discussed various welfare intiative like scholarships,mental health resources,mentoeship programs,and student support system available on campus.
+
+## ⏲ 11:30 Am - 12:30 Pm | 👨‍⚕️ Lecture by Dr.Randhir Singh ( Conduct of Examination )
+Dr.Randhir Singh explained internal and external exam procedures,academic intedrity,and rules related to unfair means.Emphasis was laid on discpline and transparency during assessments.
+
+## ⏲ 12:30 Pm - 01:30 Pm | ☕ Refreshment break 
+Student were given a one-hours break after auditorium lectures.
+
+## ⏲ 01:30 Pm to 02:30 Pm | Mathematics lecture by Prof.Rajbir kaur
+Introducting lecture on basic concepts of engineering mathematics.Emphasis on logical thinking and problem-solving.
+
+## ⏲ 02:30 Pm - 03:30 Pm | English lecture 
+Basic communication skills and grammar topics were discussed.Students were encouraged to participate actively.
+
+ ✍**Prepared by Harmanpreet kaur**
+ 
+B.Tech( CSE )
+
+
+
    
    
   
