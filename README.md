@@ -128,7 +128,7 @@ Student were given a one-hours break after the ID process.
 ## ✔ Conclusion
 Day 6 of the induction programme offered a thoughtful blend of **administrative setup** and **motivational insight**,helping student feel inspired and well-oriented within the GNDEC eniviorment.
 
-# Induction Programme Report - Day 7 ( 7 August 2025 )
+# ✨ Induction Programme Report - Day 7 ( 7 August 2025 )
 
 ## ⏲ 09:30 Am - 10:30 Am | 👨‍⚕️ Lecture by Dr.Amit Kamra ( Incharge-DMC)
 Dr.Amit Kamra introduced the (DMC) ,which manages the college's social media presence,YouTube channel,and official event video editing.Student were encouraged to participate and showcase their creative skills through this platform.
