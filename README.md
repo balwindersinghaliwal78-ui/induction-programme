@@ -148,9 +148,21 @@ Introducting lecture on basic concepts of engineering mathematics.Emphasis on lo
 ## ⏲ 02:30 Pm - 03:30 Pm | English lecture 
 Basic communication skills and grammar topics were discussed.Students were encouraged to participate actively.
 
- ✍**Prepared by Harmanpreet kaur**
+## ✨ Induction Programme Report - Day 8 ( 8 August 2025 )
+
+ ## ⏲ 09:00 Am - 10:30 Am | Chemistry lecture by Prof.Mandeep Kaur
+ 🧪  **Prof.Mandeep Kaur** explained the basic topics from Chapter 3 and took a short introduction from the students.
  
-B.Tech( CSE )
+ 
+## ⏲ 10:30 Am - 12:00 Pm | English Lecture by Prof.Nisha
+ 📘 **Prof.Nisha** discussed and wrote down the English syllabus,the conducted an objective-type quiz for the students.
+ 
+
+ ✍ Prepared by **Harmanpreet Kaur**
+ 
+ B.tech ( CSE )
+
+ 
 
 
 
